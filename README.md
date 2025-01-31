@@ -10,5 +10,7 @@
 ## Comecei definindo o que gostaria de fazer.
 #### Coloquei como comentário para ficar bem visível.
 ![image](https://github.com/user-attachments/assets/95582c34-6ee6-420a-8009-bfcd148e2380)
-#### Em seguida importei a biblioteca Pandas, criei uma variável e usei a chamada pd.read_excel para ler o arquivo Vendas, dei um print() e já consegui visualizar alguns dados.
+#### Em seguida importei a biblioteca Pandas, criei uma variável e usei a função pd.read_excel para ler o arquivo Vendas, dei um print() e já consegui visualizar alguns dados.
 ![image](https://github.com/user-attachments/assets/c41cc1f4-228e-43b0-9ca3-9d70bb9f8204)
+#### Usei a função pd.set_option('display.max_columns', None) para me certificar de mostrar todas as colunas.
+![image](https://github.com/user-attachments/assets/768a214a-b2c0-4ff2-be0d-edfc5d75b818)
